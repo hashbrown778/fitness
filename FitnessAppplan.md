@@ -2,7 +2,11 @@
 
 **Project Name:** [Your Choice — e.g., Gainz, StreakFit, LevelUp]
 
-**Vision:** A gamified AI fitness app (Duolingo for fitness) where users log workouts, get personalized Claude API coaching feedback, and track progress through streaks, badges, and charts.
+**Vision:** A gamified AI fitness app (Duolingo for fitness) where users log workouts, get personalized Claude API coaching feedback, and track progress through streaks, badges, and charts. 
+
+## Notes
+- Right now, i am using this as a website but if it goes well enough, i want to turn it into an app.
+- this is also for me to learn, and get a full picture of development
 
 ---
 
